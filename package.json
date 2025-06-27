@@ -1,0 +1,11 @@
+{
+  "name": "dark-team-46-md-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0"
+  }
+}
